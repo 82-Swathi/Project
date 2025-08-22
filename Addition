@@ -2,3 +2,5 @@ int a=10
 int b=20
 sum=a+b
 print("The sum of {a} and {b} is {sum}")
+sub=a-b
+print("The subtraction of {a} and {b} is {sub}")
